@@ -199,13 +199,13 @@ class PlayoffOptimizer:
         self.load_team_data(f'{base_path}/NewEnglandPatriotsStats - Sheet1.csv', 'NE', 2, 'AFC')
         self.load_team_data(f'{base_path}/JacksonvilleJaguarsStats - Sheet1.csv', 'JAX', 3, 'AFC')
         self.load_team_data(f'{base_path}/PittsburghSteelersStats - Sheet1.csv', 'PIT', 4, 'AFC')
-        self.load_team_data(f'{base_path}/HoustanTexansStats - Sheet1.csv', 'HOU', 5, 'AFC')
+        self.load_team_data(f'{base_path}/HoustanTexansStats - Sheet1.csv', 'HOU', 5, 'AFC')  # Note: filename has typo
         self.load_team_data(f'{base_path}/LosAngelesChargers.csv', 'LAC', 6, 'AFC')
         
         # NFC Teams
         self.load_team_data(f'{base_path}/SeattleSeahawksStats - Sheet1.csv', 'SEA', 1, 'NFC')
         self.load_team_data(f'{base_path}/ChicagoBearsStats - Sheet1.csv', 'CHI', 2, 'NFC')
-        self.load_team_data(f'{base_path}/PhilidelphiaEaglesStats - Sheet1.csv', 'PHI', 3, 'NFC')
+        self.load_team_data(f'{base_path}/PhilidelphiaEaglesStats - Sheet1.csv', 'PHI', 3, 'NFC')  # Note: filename has typo
         self.load_team_data(f'{base_path}/CarolinaPanthersStats - Sheet1 (1).csv', 'CAR', 4, 'NFC')
         self.load_team_data(f'{base_path}/LosAngelesRamsStats - Sheet1.csv', 'LAR', 5, 'NFC')
         self.load_team_data(f'{base_path}/GreenBayPackersStats- Sheet1 (1).csv', 'GB', 7, 'NFC')
