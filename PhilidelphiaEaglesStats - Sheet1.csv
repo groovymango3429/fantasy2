@@ -1,0 +1,76 @@
+,,,,,Passing,,,Rushing,,Recieving,,,,,,,,
+RK,NAME,TEAM,POS,GP,YDS,TD,INT,YDS,TD,REC,YDS,TD,SCK,INT,FF,FR,FPTS/G,FPTS
+1,Jalen Hurts,PHI,QB,16,3224,25,6,421,8,0,0,0,0,0,0,1,18.7,299.1
+2,Saquon Barkley,PHI,RB,16,0,0,0,1140,7,37,273,2,0,0,0,0,14.5,232.3
+3,A.J. Brown,PHI,WR,15,0,0,0,0,0,78,1003,7,0,0,0,0,14.7,220.3
+4,DeVonta Smith,PHI,WR,17,0,0,0,0,0,77,1008,4,0,0,0,0,11.9,201.8
+5,Dallas Goedert,PHI,TE,15,0,0,0,0,0,60,591,11,0,0,0,0,12.3,185.1
+6,Zack Baun,PHI,LB,16,0,0,0,0,0,0,0,0,4,2,1,1,8.3,132.9
+7,Jalyx Hunt,PHI,OLB,17,0,0,0,0,0,0,0,0,7,3,2,1,6.9,117.5
+8,Jake Elliott,PHI,K,17,0,0,0,0,0,0,0,0,0,0,0,0,6.4,109
+9,Cooper DeJean,PHI,DB,16,0,0,0,0,0,0,0,0,0,2,1,0,6.3,101.5
+10,Jordan Davis,PHI,DT,17,0,0,0,0,0,0,0,0,5,0,0,0,5.3,90.3
+11,Jaelan Phillips,PHI,LB,17,0,0,0,0,0,0,0,0,5,0,1,2,5.2,88.2
+12,Reed Blankenship,PHI,S,16,0,0,0,0,0,0,0,0,0,1,1,1,5.1,82
+13,Jihaad Campbell,PHI,LB,17,0,0,0,0,0,0,0,0,0,1,1,1,4.4,75
+14,Nakobe Dean,PHI,LB,10,0,0,0,0,0,0,0,0,4,0,2,0,7.4,73.8
+15,Moro Ojomo,PHI,DT,17,0,0,0,0,0,0,0,0,6,0,0,0,3.7,62.3
+16,Adoree' Jackson,PHI,CB,14,0,0,0,0,0,0,0,0,0,1,0,0,4.4,61.5
+17,Quinyon Mitchell,PHI,CB,16,0,0,0,0,0,0,0,0,0,0,0,1,3.8,60
+18,Jalen Carter,PHI,DT,11,0,0,0,0,0,0,0,0,3,0,0,0,5.4,59.7
+19,Tank Bigsby,PHI,RB,17,0,0,0,356,2,3,32,0,0,0,0,0,3.2,53.8
+20,Jahan Dotson,PHI,WR,17,0,0,0,0,0,18,262,1,0,0,0,0,3,50.2
+21,Andrew Mukuba,PHI,S,11,0,0,0,0,0,0,0,0,1,2,0,0,4.5,50
+22,Nolan Smith Jr.,PHI,OLB,12,0,0,0,0,0,0,0,0,3,0,1,0,3.8,45
+23,Byron Young,PHI,DT,17,0,0,0,0,0,0,0,0,3,0,0,1,2.4,40.9
+24,Kelee Ringo,PHI,CB,17,0,0,0,0,0,0,0,0,0,0,1,1,1.9,31.5
+25,Joshua Uche,PHI,LB,12,0,0,0,0,0,0,0,0,1,0,0,0,2,24.3
+26,Sydney Brown,PHI,S,17,0,0,0,0,0,0,0,0,0,0,0,0,1.4,23
+27,Grant Calcaterra,PHI,TE,15,0,0,0,0,0,9,76,1,0,0,0,0,1.5,22.6
+28,Michael Carter II,PHI,CB,13,0,0,0,0,0,0,0,0,0,0,0,0,1.7,21.5
+29,Marcus Epps,PHI,S,12,0,0,0,0,0,0,0,0,0,0,0,0,1.6,19
+30,Brandon Graham,PHI,DE,9,0,0,0,0,0,0,0,0,3,0,0,0,2.1,18.7
+31,Darius Cooper,PHI,WR,12,0,0,0,0,0,9,92,0,0,0,0,0,1.5,18.2
+32,Will Shipley,PHI,RB,15,0,0,0,49,0,9,56,0,0,0,1,0,1.2,17.5
+33,Za'Darius Smith,PHI,DE,5,0,0,0,0,0,0,0,0,2,0,0,0,3.3,16.4
+34,Tanner McKee,PHI,QB,5,280,1,1,8,0,0,0,0,0,0,0,0,2.8,14
+35,Jeremiah Trotter Jr.,PHI,LB,17,0,0,0,0,0,0,0,0,0,0,0,0,0.8,13
+36,Kylen Granson,PHI,TE,17,0,0,0,0,0,7,40,0,0,0,0,0,0.6,11
+37,A.J. Dillon,PHI,RB,7,0,0,0,60,0,3,21,0,0,0,0,0,1.3,9.1
+38,Patrick Johnson,PHI,OLB,9,0,0,0,0,0,0,0,0,1,0,0,0,0.8,7.6
+39,Jakorian Bennett,PHI,CB,10,0,0,0,0,0,0,0,0,0,0,0,0,0.8,7.5
+40,Azeez Ojulari,PHI,OLB,3,0,0,0,0,0,0,0,0,0,0,0,0,2,6
+41,Ty Robinson,PHI,DT,11,0,0,0,0,0,0,0,0,0,0,0,0,0.5,5
+42,Jaire Alexander,PHI,CB,2,0,0,0,0,0,0,0,0,0,0,0,0,2.2,4.5
+43,Britain Covey,PHI,WR,6,0,0,0,0,0,2,20,0,0,0,0,0,0.7,4
+44,Brandon Johnson,PHI,DB,3,0,0,0,0,0,0,0,0,0,0,0,0,0.8,2.5
+45,Parry Nickerson,PHI,CB,5,0,0,0,0,0,0,0,0,0,0,0,0,0.4,2
+46,Mac McWilliams,PHI,CB,5,0,0,0,0,0,0,0,0,0,0,0,0,0.2,1
+47,Drew Kendall,PHI,OL,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48,Lane Johnson,PHI,OT,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49,Tyler Steen,PHI,OL,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,Cameron Williams,PHI,OT,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,Brett Toth,PHI,OT,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,Ben VanSumeren,PHI,FB,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+53,Fred Johnson,PHI,OT,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,Cal Adomitis,PHI,LS,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,Cameron Latu,PHI,TE,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56,Charley Hughlett,PHI,LS,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+57,Gabe Hall,PHI,DT,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,Landon Dickerson,PHI,G,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,Matt Pryor,PHI,G,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,Cam Jurgens,PHI,C,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61,Andre' Sam,PHI,S,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+62,E.J. Jenkins,PHI,TE,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+63,Ogbo Okoronkwo,PHI,DE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64,Jordan Mailata,PHI,OT,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+65,Smael Mondon Jr.,PHI,LB,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,Braden Mann,PHI,P,17,0,0,0,-34,0,0,0,0,0,0,0,0,-0.2,-3.4
+67,Jalen Milroe,SEA,QB,3,0,0,0,4,0,0,0,0,0,0,0,0,-0.5,-1.6
+68,Spencer Brown,BUF,OT,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,Chase Lundt,BUF,OT,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70,Alec Anderson,BUF,OT,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71,Jimmy Ciarlo,BUF,LB,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72,Connor McGovern,BUF,G,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+73,O'Cyrus Torrence,BUF,G,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+74,Mecole Hardman,BUF,WR,2,0,0,0,0,0,0,0,0,0,0,0,0,-1,-2
