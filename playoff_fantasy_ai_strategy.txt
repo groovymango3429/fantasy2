@@ -1,0 +1,127 @@
+
+PLAYOFF FANTASY AI STRATEGY FILE
+League Type: NFL Playoff One-and-Done (Use Each Player Once)
+Scoring:
+- PPR: 1.0 for all positions
+- Tight End Premium: 1.5 PPR
+- Standard yardage and TD scoring otherwise
+Objective:
+- Maximize TOTAL fantasy points across ALL playoff weeks
+- Players can only be used once; once used they are locked
+- Player pool shrinks as teams are eliminated
+
+--------------------------------------------------
+CORE STRATEGIC PRINCIPLES
+--------------------------------------------------
+
+1. VALUE VS LONGEVITY TRADEOFF
+Do NOT always select the highest projected scorer for the current week.
+Balance:
+- Expected fantasy points THIS week
+- Probability the player's NFL team advances to future rounds
+High-value players on teams likely to advance should often be SAVED.
+
+2. ADVANCEMENT PROBABILITY MATTERS
+Each player's value should be multiplied by the probability their team plays that week.
+Example:
+EffectiveValue = ProjectedPoints × TeamAdvanceProbability
+
+3. ELIMINATION-AWARE USAGE
+Players on underdog teams:
+- Higher priority to use early
+- Fewer future opportunities
+Players on Super Bowl contenders:
+- Preserve elite options for later rounds
+
+--------------------------------------------------
+POSITIONAL STRATEGY
+--------------------------------------------------
+
+TIGHT ENDS (1.5 PPR):
+- Elite TEs have inflated value
+- Treat top-tier TEs closer to WR1 value
+- Scarcity increases in later rounds → plan usage carefully
+
+RUNNING BACKS:
+- Prefer pass-catching RBs (PPR)
+- RBs on heavy favorites gain value due to game script
+- RB injuries increase backup value rapidly
+
+WIDE RECEIVERS:
+- Target high-volume route runners
+- Favor WRs in high-total games
+- Slot WRs gain value vs weak zone defenses
+
+QUARTERBACKS:
+- Stack with pass-catchers when possible
+- Mobile QBs gain floor value
+- Avoid bad-weather games when alternatives exist
+
+--------------------------------------------------
+MATCHUP & CONTEXT FACTORS
+--------------------------------------------------
+
+Each weekly evaluation should include:
+- Opponent defense vs position rank
+- Game total (expected points)
+- Point spread (favorite vs underdog)
+- Weather (wind, snow, heavy rain reduce passing efficiency)
+- Injury reports & snap share expectations
+
+--------------------------------------------------
+VOLATILITY MANAGEMENT
+--------------------------------------------------
+
+Score players using:
+- Floor (safe points)
+- Ceiling (upside)
+- Variance (boom/bust risk)
+
+Early rounds:
+- Favor safe floors
+Later rounds:
+- Ceiling matters more if chasing points
+
+--------------------------------------------------
+GAME THEORY CONSIDERATIONS
+--------------------------------------------------
+
+- Opponents will likely save elite players on strong teams
+- Using a player removes them from your future pool but not others
+- Do not over-save: unused players score ZERO
+
+--------------------------------------------------
+RECOMMENDED DECISION FRAMEWORK
+--------------------------------------------------
+
+For each player and week, calculate:
+
+UtilityScore =
+(ExpectedFantasyPoints × TeamAdvanceProbability)
++ FutureValueAdjustment
+- OpportunityCost
+
+Where:
+- FutureValueAdjustment increases for elite players on strong teams
+- OpportunityCost increases if position scarcity is high later
+
+--------------------------------------------------
+REQUIRED DATA INPUTS
+--------------------------------------------------
+
+The AI should ingest:
+- Weekly fantasy projections (playoff weeks only)
+- Team win probabilities & Super Bowl odds
+- Defense vs position rankings
+- Injury status and depth charts
+- Weather forecasts
+- Player volatility metrics
+- Scoring weights (TE = 1.5 PPR)
+
+--------------------------------------------------
+FINAL GUIDING RULE
+--------------------------------------------------
+
+This is NOT DFS.
+The goal is maximizing TOTAL playoff points, not weekly wins.
+Using the right player at the wrong time is worse than using a slightly worse player at the right time.
