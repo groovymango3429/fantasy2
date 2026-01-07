@@ -1,0 +1,88 @@
+================================================================================
+PLAYOFF FANTASY LINEUP OPTIMIZER RESULTS
+================================================================================
+
+STRATEGY:
+- PPR scoring with 1.5x premium for tight ends
+- Each player can only be used once
+- Maximize total points across all playoff weeks
+- Consider team advancement probabilities
+- Save elite players on Super Bowl contenders for later rounds
+
+
+================================================================================
+WILDCARD ROUND LINEUP
+================================================================================
+
+QB    | Matthew Stafford          | LAR  | QB  | Proj:  20.6 | Prob: 65% | Value:  13.4
+RB1   | Kyren Williams            | LAR  | RB  | Proj:  15.5 | Prob: 65% | Value:  10.1
+RB2   | Saquon Barkley            | PHI  | RB  | Proj:  14.5 | Prob: 60% | Value:   8.7
+RB3   | D'Andre Swift             | CHI  | RB  | Proj:  14.3 | Prob: 55% | Value:   7.9
+WR1   | Puka Nacua                | LAR  | WR  | Proj:  23.4 | Prob: 65% | Value:  15.2
+WR2   | Davante Adams             | LAR  | WR  | Proj:  15.9 | Prob: 65% | Value:  10.3
+WR3   | A.J. Brown                | PHI  | WR  | Proj:  14.7 | Prob: 60% | Value:   8.8
+TE1   | Dallas Goedert            | PHI  | TE  | Proj:  14.3 | Prob: 60% | Value:   8.6
+TE2   | Tucker Kraft              | GB   | TE  | Proj:  16.7 | Prob: 45% | Value:   7.5
+--------------------------------------------------------------------------------
+Total Projected Points: 149.9
+
+================================================================================
+DIVISIONAL ROUND LINEUP
+================================================================================
+
+QB    | Sam Darnold               | SEA  | QB  | Proj:  13.8 | Prob: 68% | Value:   9.4
+RB1   | RJ Harvey                 | DEN  | RB  | Proj:  12.2 | Prob: 70% | Value:   8.5
+RB2   | J.K. Dobbins              | DEN  | RB  | Proj:  11.6 | Prob: 70% | Value:   8.1
+RB3   | Kenneth Walker III        | SEA  | RB  | Proj:  11.3 | Prob: 68% | Value:   7.7
+WR1   | Jaxon Smith-Njigba        | SEA  | WR  | Proj:  21.2 | Prob: 68% | Value:  14.4
+WR2   | Courtland Sutton          | DEN  | WR  | Proj:  12.9 | Prob: 70% | Value:   9.0
+WR3   | Troy Franklin             | DEN  | WR  | Proj:  10.4 | Prob: 70% | Value:   7.3
+TE1   | AJ Barner                 | SEA  | TE  | Proj:  10.2 | Prob: 68% | Value:   7.0
+TE2   | Evan Engram               | DEN  | TE  | Proj:   8.0 | Prob: 70% | Value:   5.6
+--------------------------------------------------------------------------------
+Total Projected Points: 111.6
+
+================================================================================
+CHAMPIONSHIP ROUND LINEUP
+================================================================================
+
+QB    | Bo Nix                    | DEN  | QB  | Proj:  17.9 | Prob: 55% | Value:   9.8
+RB1   | Zach Charbonnet           | SEA  | RB  | Proj:  11.3 | Prob: 52% | Value:   5.9
+RB2   | Rhamondre Stevenson       | NE   | RB  | Proj:  12.8 | Prob: 15% | Value:   1.9
+RB3   | TreVeyon Henderson        | NE   | RB  | Proj:  12.1 | Prob: 15% | Value:   1.8
+WR1   | Rashid Shaheed            | SEA  | WR  | Proj:   8.0 | Prob: 52% | Value:   4.2
+WR2   | Tory Horton               | SEA  | WR  | Proj:   7.4 | Prob: 52% | Value:   3.8
+WR3   | Cooper Kupp               | SEA  | WR  | Proj:   7.3 | Prob: 52% | Value:   3.8
+TE1   | Colby Parkinson           | LAR  | TE  | Proj:  10.1 | Prob: 23% | Value:   2.3
+TE2   | Colston Loveland          | CHI  | TE  | Proj:  12.1 | Prob: 18% | Value:   2.2
+--------------------------------------------------------------------------------
+Total Projected Points: 99.0
+
+================================================================================
+SUPERBOWL ROUND LINEUP
+================================================================================
+
+QB    | Jalen Hurts               | PHI  | QB  | Proj:  18.7 | Prob: 12% | Value:   2.2
+RB1   | Blake Corum               | LAR  | RB  | Proj:   7.2 | Prob: 13% | Value:   0.9
+RB2   | Kyle Monangai             | CHI  | RB  | Proj:   8.6 | Prob: 8% | Value:   0.7
+RB3   | EMPTY                     |
+WR1   | Marvin Mims Jr.           | DEN  | WR  | Proj:   5.8 | Prob: 35% | Value:   2.0
+WR2   | DeVonta Smith             | PHI  | WR  | Proj:  11.9 | Prob: 12% | Value:   1.4
+WR3   | Rome Odunze               | CHI  | WR  | Proj:  12.2 | Prob: 8% | Value:   1.0
+TE1   | Adam Trautman             | DEN  | TE  | Proj:   3.3 | Prob: 35% | Value:   1.2
+TE2   | Tyler Higbee              | LAR  | TE  | Proj:   8.3 | Prob: 13% | Value:   1.1
+--------------------------------------------------------------------------------
+Total Projected Points: 76.0
+
+================================================================================
+SUMMARY
+================================================================================
+
+Total Projected Points Across All Weeks: 436.6
+Players Used: 35
+
+Week-by-Week Breakdown:
+Wildcard        |  149.9 points
+Divisional      |  111.6 points
+Championship    |   99.0 points
+Superbowl       |   76.0 points
